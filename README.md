@@ -1,7 +1,22 @@
 # Teste iCasei: Front-End
 Desenvolver uma aplicação HTML5.
 
-Teste commit
+## Instruções de funcionamento
+- Abrir o NodeJs ou terminal integrado de qualquer editor de códigos.
+- Digitar npm start para iniciar o servidor de desenvolvimento.
+- Seu Browser irá abrir automaticamente já com o localhost do servidor rodando.
+
+## Comandos NodeJs para compilar, testar e rodar o projeto.
+<b>npm start</b></br>
+Starts the development server
+
+<b>npm run build</b></br>
+Bundles the app into static files for production
+
+<b>npm test</b></br>
+Starts the test runner
+
+## Desenvolvido com ReactJs e Material Design
 
 ## Instruções
 - Faça um fork desse projeto para a sua conta pessoal do GitHub, ou BitBucket.
