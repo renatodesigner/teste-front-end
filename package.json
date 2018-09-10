@@ -1,0 +1,32 @@
+{
+  "name": "teste-front-end",
+  "version": "1.0.0",
+  "description": "Desenvolver uma aplicação HTML5.",
+  "main": "application.js",
+  "scripts": {
+    "test": "test",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatodesigner/teste-front-end.git"
+  },
+  "author": "Renato Designer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renatodesigner/teste-front-end/issues"
+  },
+  "homepage": "https://github.com/renatodesigner/teste-front-end#readme",
+  "devDependencies": {
+    "@material/button": "^0.39.1",
+    "autoprefixer": "^9.1.5",
+    "css-loader": "^1.0.0",
+    "extract-loader": "^3.0.0",
+    "file-loader": "^2.0.0",
+    "node-sass": "^4.9.3",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^7.1.0",
+    "webpack": "^3.12.0",
+    "webpack-dev-server": "^2.11.3"
+  }
+}

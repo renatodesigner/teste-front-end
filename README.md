@@ -2,13 +2,13 @@
 Desenvolver uma aplicação HTML5.
 
 ## Instruções de funcionamento
-- Abrir o NodeJs ou terminal integrado de qualquer editor de códigos.
+- Abrir o NodeJs ou terminal integrado de qualquer editor de códigos já na pasta raiz da aplicação.
 - Digitar npm start para iniciar o servidor de desenvolvimento.
-- Seu Browser irá abrir automaticamente já com o localhost do servidor rodando.
+- Acessar o localhost:8080 de seu navegador padrão.
 
 ## Comandos NodeJs para compilar, testar e rodar o projeto.
 <b>npm start</b></br>
-Starts the development server
+Inicia o server webpack de desenvolvimento
 
 <b>npm run build</b></br>
 Bundles the app into static files for production
